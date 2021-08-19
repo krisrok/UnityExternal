@@ -6,3 +6,5 @@
 /UnityProject/*.csproj
 /UnityProject/*.sln
 /UnityProject/*.user
+UnityProject/Logs/
+UnityProject/obj/
